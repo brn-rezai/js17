@@ -1,0 +1,33 @@
+.cardSelected {
+    text-align: center;
+    margin: 5% auto;
+}
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
+
+article {
+    width: 22%;
+    padding: 20px;
+    background-color: #444444;
+    border-radius: 10px;
+    
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+h5 {
+    color: #fff;
+}
+
+button {
+    background-color: transparent;
+    border: 2px solid rgb(150, 120, 233);
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 20px;
+}
